@@ -1,0 +1,19 @@
+{
+  "name": "ycscapp",
+  "version": "1.0.0",
+  "description": "西安宠溺宠物信息平台APP",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/hezhijucheng/ycscapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@dcloudio/uni-ui": "0.0.8"
+  }
+}
